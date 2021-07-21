@@ -6,7 +6,7 @@ To run the code follow the steps given below:
 Copy the OCCTwinSVM.ipynb in your personal colaboratory.
 ```
 ```
-Run the first cell and let it install
+Run the first cell and let the library install
 ```
 ```
 After the library is installed overwrite  "/usr/local/lib/python3.7/dist-packages/libtsvm/estimators.py" 
